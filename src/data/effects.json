@@ -1,0 +1,1492 @@
+[
+  {
+    "name": "Godfrey Icon",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "charged",
+    "multiplier": "1.15",
+    "condition": "charged attacks & skills",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Lord of Blood's Exultation",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical",
+    "multiplier": "1.20",
+    "condition": "blood loss nearby",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Blue Dancer Charm",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical",
+    "multiplier": "weight-based physical attack power",
+    "condition": "always",
+    "duration": "",
+    "notes": "Scales physical attack power from equipped weight"
+  },
+  {
+    "name": "Rotten Winged Sword Insignia",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "successive",
+    "multiplier": "1.13",
+    "condition": "successive attacks",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Winged Sword Insignia",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "successive",
+    "multiplier": "1.10",
+    "condition": "successive attacks",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Millicent's Prosthesis",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "successive",
+    "multiplier": "1.11",
+    "condition": "successive attacks",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Ritual Sword Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical",
+    "multiplier": "1.10",
+    "condition": "full HP",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Two-Handed Sword Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical",
+    "multiplier": "1.20",
+    "condition": "two-handing weapon",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Aged One's Exultation",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical",
+    "multiplier": "1.20",
+    "condition": "madness nearby",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "St. Trina's Smile",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical",
+    "multiplier": "1.20",
+    "condition": "sleep nearby",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Blade of Mercy",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical",
+    "multiplier": "1.20",
+    "condition": "after critical hit",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Crusade Insignia",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical",
+    "multiplier": "1.15",
+    "condition": "after killing enemy",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Retaliatory Crossed-Tree",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical",
+    "multiplier": "1.17",
+    "condition": "after roll or backstep",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Magic Scorpion Charm",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "magic",
+    "multiplier": "1.12",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Fire Scorpion Charm",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "fire",
+    "multiplier": "1.12",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Lightning Scorpion Charm",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "lightning",
+    "multiplier": "1.12",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Holy Scorpion Charm",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "holy",
+    "multiplier": "1.12",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Claw Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "jump",
+    "multiplier": "1.15",
+    "condition": "jumping attacks",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Axe Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "charged",
+    "multiplier": "1.10",
+    "condition": "charged heavies",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Spear Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "thrust",
+    "multiplier": "1.15",
+    "condition": "thrusting attacks",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Red-Feathered Branchsword",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical",
+    "multiplier": "1.20",
+    "condition": "low HP",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Kindred of Rot's Exultation",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical",
+    "multiplier": "1.20",
+    "condition": "poison or rot nearby",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "White Mask",
+    "type": "armor",
+    "category": "",
+    "effectType": "physical",
+    "multiplier": "1.10",
+    "condition": "blood loss on enemy or self",
+    "duration": "20s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Mushroom Crown",
+    "type": "armor",
+    "category": "",
+    "effectType": "physical",
+    "multiplier": "1.10",
+    "condition": "poison or rot nearby",
+    "duration": "20s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Black Dumpling",
+    "type": "armor",
+    "category": "",
+    "effectType": "physical",
+    "multiplier": "1.10",
+    "condition": "madness or sleep nearby",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Rot Helm",
+    "type": "armor",
+    "category": "",
+    "effectType": "physical",
+    "multiplier": "1.10",
+    "condition": "scarlet rot nearby",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Golden Vow",
+    "type": "buff",
+    "category": "aura",
+    "effectType": "all",
+    "multiplier": "1.15",
+    "condition": "always",
+    "duration": "80s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Howl of Shabriri",
+    "type": "buff",
+    "category": "body",
+    "effectType": "all",
+    "multiplier": "1.25",
+    "condition": "always",
+    "duration": "30s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Rallying Standard",
+    "type": "buff",
+    "category": "aura",
+    "effectType": "all",
+    "multiplier": "1.20",
+    "condition": "always",
+    "duration": "30s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Flame Grant Me Strength",
+    "type": "buff",
+    "category": "body",
+    "effectType": "physical fire",
+    "multiplier": "1.20",
+    "condition": "always",
+    "duration": "30s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Blood Flame Grant Me Strength",
+    "type": "buff",
+    "category": "body",
+    "effectType": "physical",
+    "multiplier": "1.15",
+    "condition": "always",
+    "duration": "30s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Exalted Flesh",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "physical",
+    "multiplier": "1.20",
+    "condition": "always",
+    "duration": "30s",
+    "notes": "Overrides previous JSON duration (correct is 30s)"
+  },
+  {
+    "name": "Royal Knight's Resolve",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "physical",
+    "multiplier": "1.80",
+    "condition": "next attack only",
+    "duration": "10s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Determination",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "physical",
+    "multiplier": "1.60",
+    "condition": "next attack only",
+    "duration": "10s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Bloodflame Blade",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "fire + bleed",
+    "multiplier": "0.40 * Incantation Scaling + 40 Bleed",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "Faith spell"
+  },
+  {
+    "name": "Electrify Armament",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "lightning",
+    "multiplier": "0.75 * Incantation Scaling",
+    "condition": "always",
+    "duration": "90s",
+    "notes": "Faith spell"
+  },
+  {
+    "name": "Scholar's Armament",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "magic",
+    "multiplier": "0.75 * Sorcery Scaling",
+    "condition": "always",
+    "duration": "90s",
+    "notes": "INT spell"
+  },
+  {
+    "name": "Order's Blade",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "holy",
+    "multiplier": "0.75 * Incantation Scaling",
+    "condition": "always",
+    "duration": "90s",
+    "notes": "Int/Fai spell"
+  },
+  {
+    "name": "Frozen Armament",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "frostbite",
+    "multiplier": "+63 Frostbite",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Black Flame Blade",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "fire",
+    "multiplier": "0.65 * Incantation Scaling",
+    "condition": "always",
+    "duration": "7s",
+    "notes": "Faith spell"
+  },
+  {
+    "name": "Poison Armament",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "poison",
+    "multiplier": "+70 Poison",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Cragblade",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "physical",
+    "multiplier": "1.15",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Flaming Strike",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "fire",
+    "multiplier": "+90 Fire",
+    "condition": "always",
+    "duration": "20s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Sacred Blade",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "holy",
+    "multiplier": "+90 Holy",
+    "condition": "always",
+    "duration": "20s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Poison Mist",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "poison",
+    "multiplier": "+60 Poison",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Chilling Mist",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "frostbite",
+    "multiplier": "+60 Frostbite",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Sacred Order",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "holy",
+    "multiplier": "1.10",
+    "condition": "always",
+    "duration": "80s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Flame Spear",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "fire",
+    "multiplier": "+95 Fire",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Flame Skewer",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "fire",
+    "multiplier": "+95 Fire",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Blood Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "bleed",
+    "multiplier": "+30 Bleed",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Drawstring Blood Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "bleed",
+    "multiplier": "+40 Bleed",
+    "condition": "always",
+    "duration": "15s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Fire Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "fire",
+    "multiplier": "+85 Fire",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Drawstring Fire Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "fire",
+    "multiplier": "+110 Fire",
+    "condition": "always",
+    "duration": "10s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Magic Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "magic",
+    "multiplier": "+85 Magic",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Drawstring Magic Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "magic",
+    "multiplier": "+110 Magic",
+    "condition": "always",
+    "duration": "10s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Lightning Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "lightning",
+    "multiplier": "+85 Lightning",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Drawstring Lightning Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "lightning",
+    "multiplier": "+110 Lightning",
+    "condition": "always",
+    "duration": "10s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Holy Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "holy",
+    "multiplier": "+85 Holy",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Drawstring Holy Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "holy",
+    "multiplier": "+110 Holy",
+    "condition": "always",
+    "duration": "10s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Poison Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "poison",
+    "multiplier": "+63 Poison",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Drawstring Poison Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "poison",
+    "multiplier": "+80 Poison",
+    "condition": "always",
+    "duration": "15s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Rot Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "scarlet rot",
+    "multiplier": "+63 Scarlet Rot",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Drawstring Rot Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "scarlet rot",
+    "multiplier": "+80 Scarlet Rot",
+    "condition": "always",
+    "duration": "15s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Freezing Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "frostbite",
+    "multiplier": "+63 Frostbite",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Thorny Cracked Tear",
+    "type": "buff",
+    "category": "special",
+    "effectType": "successive",
+    "multiplier": "1.15",
+    "condition": "successive attacks",
+    "duration": "30s",
+    "notes": "Physick"
+  },
+  {
+    "name": "Stonebarb Cracked Tear",
+    "type": "buff",
+    "category": "special",
+    "effectType": "charged",
+    "multiplier": "1.15",
+    "condition": "charged attacks",
+    "duration": "30s",
+    "notes": "Physick"
+  },
+  {
+    "name": "Magic-Shrouding Cracked Tear",
+    "type": "buff",
+    "category": "special",
+    "effectType": "magic",
+    "multiplier": "1.20",
+    "condition": "always",
+    "duration": "30s",
+    "notes": "Physick"
+  },
+  {
+    "name": "Fire-Shrouding Cracked Tear",
+    "type": "buff",
+    "category": "special",
+    "effectType": "fire",
+    "multiplier": "1.20",
+    "condition": "always",
+    "duration": "30s",
+    "notes": "Physick"
+  },
+  {
+    "name": "Lightning-Shrouding Cracked Tear",
+    "type": "buff",
+    "category": "special",
+    "effectType": "lightning",
+    "multiplier": "1.20",
+    "condition": "always",
+    "duration": "30s",
+    "notes": "Physick"
+  },
+  {
+    "name": "Holy-Shrouding Cracked Tear",
+    "type": "buff",
+    "category": "special",
+    "effectType": "holy",
+    "multiplier": "1.20",
+    "condition": "always",
+    "duration": "30s",
+    "notes": "Physick"
+  },
+  {
+    "name": "Opaline Hardtear",
+    "type": "buff",
+    "category": "special",
+    "effectType": "negation",
+    "multiplier": "1.15",
+    "condition": "always",
+    "duration": "30s",
+    "notes": "Physick"
+  },
+  {
+    "name": "Speckled Hardtear",
+    "type": "buff",
+    "category": "special",
+    "effectType": "negation / resistance",
+    "multiplier": "1.15",
+    "condition": "always",
+    "duration": "30s",
+    "notes": "Physick"
+  },
+  {
+    "name": "Spiked Cracked Tear",
+    "type": "buff",
+    "category": "special",
+    "effectType": "charged",
+    "multiplier": "1.15",
+    "condition": "charged attacks",
+    "duration": "30s",
+    "notes": "Physick"
+  },
+  {
+    "name": "Winged Crystal Tear",
+    "type": "buff",
+    "category": "special",
+    "effectType": "equip load",
+    "multiplier": "+450% max equip load",
+    "condition": "always",
+    "duration": "30s",
+    "notes": "Physick"
+  },
+  {
+    "name": "Windy Crystal Tear",
+    "type": "buff",
+    "category": "special",
+    "effectType": "iframes / negation",
+    "multiplier": "-15% damage negation",
+    "condition": "always",
+    "duration": "30s",
+    "notes": "Physick"
+  },
+  {
+    "name": "Uplifting Aromatic",
+    "type": "buff",
+    "category": "aura",
+    "effectType": "negation",
+    "multiplier": "1.10",
+    "condition": "always",
+    "duration": "40s",
+    "notes": "+90% negation for one hit"
+  },
+  {
+    "name": "Bloodboil Aromatic",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "physical",
+    "multiplier": "1.30",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "-25% all negations"
+  },
+  {
+    "name": "Jellyfish Shield",
+    "type": "buff",
+    "category": "special",
+    "effectType": "all",
+    "multiplier": "1.20",
+    "condition": "always",
+    "duration": "30s",
+    "notes": "Contagious Fury"
+  },
+  {
+    "name": "Seppuku",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "physical + bleed",
+    "multiplier": "+30 AR + 30 Bleed",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "War Cry",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "physical",
+    "multiplier": "1.075",
+    "condition": "always",
+    "duration": "40s",
+    "notes": "Adds +5 str scaling to weapon"
+  },
+  {
+    "name": "Dragon Communion Flesh",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "stats",
+    "multiplier": "+6 VIG/END/STR/DEX",
+    "condition": "always",
+    "duration": "",
+    "notes": "-3 HP/s"
+  },
+  {
+    "name": "Dragonscale Flesh",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "stats",
+    "multiplier": "+8 VIG/END/STR/DEX",
+    "condition": "always",
+    "duration": "",
+    "notes": "-4 HP/s"
+  },
+  {
+    "name": "Spellproof Dried Liver",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "magic negation",
+    "multiplier": "1.15",
+    "condition": "always",
+    "duration": "120s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Spellproof Pickled Liver",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "magic negation",
+    "multiplier": "1.25",
+    "condition": "always",
+    "duration": "120s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Fireproof Dried Liver",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "fire negation",
+    "multiplier": "1.15",
+    "condition": "always",
+    "duration": "120s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Fireproof Pickled Liver",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "fire negation",
+    "multiplier": "1.25",
+    "condition": "always",
+    "duration": "120s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Lightningproof Dried Liver",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "lightning negation",
+    "multiplier": "1.15",
+    "condition": "always",
+    "duration": "120s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Lightningproof Pickled Liver",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "lightning negation",
+    "multiplier": "1.25",
+    "condition": "always",
+    "duration": "120s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Holyproof Dried Liver",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "holy negation",
+    "multiplier": "1.35",
+    "condition": "always",
+    "duration": "120s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Holyproof Pickled Liver",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "holy negation",
+    "multiplier": "1.25",
+    "condition": "always",
+    "duration": "120s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Opaline Pickled Liver",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "elemental negation",
+    "multiplier": "1.18",
+    "condition": "always",
+    "duration": "120s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Boiled Prawn",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "physical negation",
+    "multiplier": "1.15",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Boiled Crab",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "physical negation",
+    "multiplier": "1.20",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Scorpion Stew",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "physical negation",
+    "multiplier": "1.10",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Gourmet Scorpion Stew",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "physical negation",
+    "multiplier": "1.10",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Ironjar Aromatic",
+    "type": "consumable",
+    "category": "body",
+    "effectType": "mixed",
+    "multiplier": "+40% physical negation, -60% lightning negation",
+    "condition": "always",
+    "duration": "40s",
+    "notes": "+poise"
+  },
+  {
+    "name": "Messmerfire Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "fire",
+    "multiplier": "+120 Fire",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Royal Magic Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "magic",
+    "multiplier": "+120 Magic",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Dragonbolt Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "lightning",
+    "multiplier": "+120 Lightning",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Golden Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "holy",
+    "multiplier": "+120 Holy",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Festive Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "holy",
+    "multiplier": "+100 Holy",
+    "condition": "always",
+    "duration": "60s",
+    "notes": "Grants runes on hit"
+  },
+  {
+    "name": "Drawstring Messmerfire Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "fire",
+    "multiplier": "+135 Fire",
+    "condition": "always",
+    "duration": "25s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Drawstring Royal Magic Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "magic",
+    "multiplier": "+135 Magic",
+    "condition": "always",
+    "duration": "25s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Drawstring Dragonbolt Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "lightning",
+    "multiplier": "+135 Lightning",
+    "condition": "always",
+    "duration": "25s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Drawstring Golden Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "holy",
+    "multiplier": "+135 Holy",
+    "condition": "always",
+    "duration": "25s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Drawstring Eternal Sleep Grease",
+    "type": "buff",
+    "category": "weapon",
+    "effectType": "sleep",
+    "multiplier": "+80 Sleep",
+    "condition": "always",
+    "duration": "25s",
+    "notes": "N/A"
+  },
+  {
+    "name": "Dagger Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "critical",
+    "multiplier": "1.16",
+    "condition": "critical hits",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Curved Sword Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "guard counter",
+    "multiplier": "1.20",
+    "condition": "guard counters",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Ritual Shield Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "negation",
+    "multiplier": "1.30",
+    "condition": "full HP",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Blue-Feathered Branchsword",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "all",
+    "multiplier": "1.50",
+    "condition": "low HP",
+    "duration": "",
+    "notes": "Below 20% HP"
+  },
+  {
+    "name": "Lacerating Crossed-Tree",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical",
+    "multiplier": "1.15",
+    "condition": "sprinting/dashing attacks",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Dragoncrest Shield Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical negation",
+    "multiplier": "1.10",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Dragoncrest Shield Talisman +1",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical negation",
+    "multiplier": "1.13",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Dragoncrest Shield Talisman +2",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical negation",
+    "multiplier": "1.17",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Dragoncrest Greatshield Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "physical negation",
+    "multiplier": "1.20",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Spelldrake Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "magic negation",
+    "multiplier": "1.13",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Spelldrake Talisman +1",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "magic negation",
+    "multiplier": "1.17",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Spelldrake Talisman +2",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "magic negation",
+    "multiplier": "1.20",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Spelldrake Talisman +3",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "magic negation",
+    "multiplier": "1.22",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Flamedrake Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "fire negation",
+    "multiplier": "1.13",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Flamedrake Talisman +1",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "fire negation",
+    "multiplier": "1.17",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Flamedrake Talisman +2",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "fire negation",
+    "multiplier": "1.20",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Flamedrake Talisman +3",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "fire negation",
+    "multiplier": "1.22",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Boltdrake Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "lightning negation",
+    "multiplier": "1.13",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Boltdrake Talisman +1",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "lightning negation",
+    "multiplier": "1.17",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Boltdrake Talisman +2",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "lightning negation",
+    "multiplier": "1.20",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Boltdrake Talisman +3",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "lightning negation",
+    "multiplier": "1.22",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Bloodsucking Cracked Tear",
+    "type": "buff",
+    "category": "special",
+    "effectType": "all",
+    "multiplier": "1.20",
+    "condition": "always",
+    "duration": "30s",
+    "notes": "Incompatible with Ritual Sword and Ritual Shield Talismans"
+  },
+  {
+    "name": "Haligdrake Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "holy negation",
+    "multiplier": "1.13",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Radagon's Scarseal",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "stats",
+    "multiplier": "+3 VIG/END/STR/DEX",
+    "condition": "always",
+    "duration": "",
+    "notes": "-10% damage negation"
+  },
+  {
+    "name": "Radagon's Soreseal",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "stats",
+    "multiplier": "+5 VIG/END/STR/DEX",
+    "condition": "always",
+    "duration": "",
+    "notes": "-15% damage negation"
+  },
+  {
+    "name": "Marika's Scarseal",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "stats",
+    "multiplier": "+3 MIND/INT/FAI/ARC",
+    "condition": "always",
+    "duration": "",
+    "notes": "-10% damage negation"
+  },
+  {
+    "name": "Marika's Soreseal",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "stats",
+    "multiplier": "+5 MIND/INT/FAI/ARC",
+    "condition": "always",
+    "duration": "",
+    "notes": "-15% damage negation"
+  },
+  {
+    "name": "Starscourge Heirloom",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "stats",
+    "multiplier": "+5 STR",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Prosthesis-Wearer Heirloom",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "stats",
+    "multiplier": "+5 DEX",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Stargazer Heirloom",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "stats",
+    "multiplier": "+5 INT",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Two Fingers Heirloom",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "stats",
+    "multiplier": "+5 FAI",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Outer God Heirloom",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "stats",
+    "multiplier": "+5 ARC",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Haligdrake Talisman +1",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "holy negation",
+    "multiplier": "1.17",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Haligdrake Talisman +2",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "holy negation",
+    "multiplier": "1.20",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Golden Braid",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "holy negation",
+    "multiplier": "1.22",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Pearldrake Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "elemental negation",
+    "multiplier": "1.05",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Pearldrake Talisman +1",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "elemental negation",
+    "multiplier": "1.07",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Pearldrake Talisman +2",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "elemental negation",
+    "multiplier": "1.09",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Pearldrake Talisman +3",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "elemental negation",
+    "multiplier": "1.11",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Crucible Scale Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "critical negation",
+    "multiplier": "1.30",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Crucible Feather Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "iframes / negation",
+    "multiplier": "-30% all damage negation",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Fine Crucible Feather Talisman",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "iframes / negation",
+    "multiplier": "-15% all damage negation",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  },
+  {
+    "name": "Talisman of All Crucibles",
+    "type": "talisman",
+    "category": "talisman",
+    "effectType": "iframes / negation",
+    "multiplier": "-45% all damage negation",
+    "condition": "always",
+    "duration": "",
+    "notes": "N/A"
+  }
+]

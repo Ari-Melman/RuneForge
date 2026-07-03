@@ -1,0 +1,260 @@
+{
+  "talismans": [
+    {
+      "name": "Godfrey Icon",
+      "weight": 0.8
+    },
+    {
+      "name": "Lord of Blood's Exultation",
+      "weight": 0.9
+    },
+    {
+      "name": "Blue Dancer Charm",
+      "weight": 0.9
+    },
+    {
+      "name": "Rotten Winged Sword Insignia",
+      "weight": 1.4
+    },
+    {
+      "name": "Winged Sword Insignia",
+      "weight": 1.4
+    },
+    {
+      "name": "Millicent's Prosthesis",
+      "weight": 1.6
+    },
+    {
+      "name": "Ritual Sword Talisman",
+      "weight": 0.9
+    },
+    {
+      "name": "Two-Handed Sword Talisman",
+      "weight": 1.2
+    },
+    {
+      "name": "Aged One's Exultation",
+      "weight": 0.3
+    },
+    {
+      "name": "St. Trina's Smile",
+      "weight": 0.9
+    },
+    {
+      "name": "Blade of Mercy",
+      "weight": 0.3
+    },
+    {
+      "name": "Crusade Insignia",
+      "weight": 0.3
+    },
+    {
+      "name": "Retaliatory Crossed-Tree",
+      "weight": 0.3
+    },
+    {
+      "name": "Magic Scorpion Charm",
+      "weight": 0.8
+    },
+    {
+      "name": "Fire Scorpion Charm",
+      "weight": 0.8
+    },
+    {
+      "name": "Lightning Scorpion Charm",
+      "weight": 0.8
+    },
+    {
+      "name": "Holy Scorpion Charm",
+      "weight": 0.8
+    },
+    {
+      "name": "Claw Talisman",
+      "weight": 0.7
+    },
+    {
+      "name": "Axe Talisman",
+      "weight": 0.8
+    },
+    {
+      "name": "Spear Talisman",
+      "weight": 0.5
+    },
+    {
+      "name": "Red-Feathered Branchsword",
+      "weight": 1.4
+    },
+    {
+      "name": "Kindred of Rot's Exultation",
+      "weight": 0.9
+    },
+    {
+      "name": "Dagger Talisman",
+      "weight": 0.8
+    },
+    {
+      "name": "Curved Sword Talisman",
+      "weight": 0.8
+    },
+    {
+      "name": "Ritual Shield Talisman",
+      "weight": 0.8
+    },
+    {
+      "name": "Blue-Feathered Branchsword",
+      "weight": 1.4
+    },
+    {
+      "name": "Lacerating Crossed-Tree",
+      "weight": 0.3
+    },
+    {
+      "name": "Dragoncrest Shield Talisman",
+      "weight": 0.8
+    },
+    {
+      "name": "Dragoncrest Shield Talisman +1",
+      "weight": 0.8
+    },
+    {
+      "name": "Dragoncrest Shield Talisman +2",
+      "weight": 0.8
+    },
+    {
+      "name": "Dragoncrest Greatshield Talisman",
+      "weight": 0.8
+    },
+    {
+      "name": "Spelldrake Talisman",
+      "weight": 0.8
+    },
+    {
+      "name": "Spelldrake Talisman +1",
+      "weight": 0.8
+    },
+    {
+      "name": "Spelldrake Talisman +2",
+      "weight": 0.8
+    },
+    {
+      "name": "Spelldrake Talisman +3",
+      "weight": 0.8
+    },
+    {
+      "name": "Flamedrake Talisman",
+      "weight": 0.8
+    },
+    {
+      "name": "Flamedrake Talisman +1",
+      "weight": 0.8
+    },
+    {
+      "name": "Flamedrake Talisman +2",
+      "weight": 0.8
+    },
+    {
+      "name": "Flamedrake Talisman +3",
+      "weight": 0.8
+    },
+    {
+      "name": "Boltdrake Talisman",
+      "weight": 0.8
+    },
+    {
+      "name": "Boltdrake Talisman +1",
+      "weight": 0.8
+    },
+    {
+      "name": "Boltdrake Talisman +2",
+      "weight": 0.8
+    },
+    {
+      "name": "Boltdrake Talisman +3",
+      "weight": 0.8
+    },
+    {
+      "name": "Haligdrake Talisman",
+      "weight": 0.8
+    },
+    {
+      "name": "Radagon's Scarseal",
+      "weight": 0.8
+    },
+    {
+      "name": "Radagon's Soreseal",
+      "weight": 0.8
+    },
+    {
+      "name": "Marika's Scarseal",
+      "weight": 0.8
+    },
+    {
+      "name": "Marika's Soreseal",
+      "weight": 0.8
+    },
+    {
+      "name": "Starscourge Heirloom",
+      "weight": 0.8
+    },
+    {
+      "name": "Prosthesis-Wearer Heirloom",
+      "weight": 0.8
+    },
+    {
+      "name": "Stargazer Heirloom",
+      "weight": 0.8
+    },
+    {
+      "name": "Two Fingers Heirloom",
+      "weight": 0.8
+    },
+    {
+      "name": "Outer God Heirloom",
+      "weight": 0.8
+    },
+    {
+      "name": "Haligdrake Talisman +1",
+      "weight": 0.8
+    },
+    {
+      "name": "Haligdrake Talisman +2",
+      "weight": 0.8
+    },
+    {
+      "name": "Golden Braid",
+      "weight": 0.8
+    },
+    {
+      "name": "Pearldrake Talisman",
+      "weight": 0.8
+    },
+    {
+      "name": "Pearldrake Talisman +1",
+      "weight": 0.8
+    },
+    {
+      "name": "Pearldrake Talisman +2",
+      "weight": 0.8
+    },
+    {
+      "name": "Pearldrake Talisman +3",
+      "weight": 0.8
+    },
+    {
+      "name": "Crucible Scale Talisman",
+      "weight": 0.8
+    },
+    {
+      "name": "Crucible Feather Talisman",
+      "weight": 0.8
+    },
+    {
+      "name": "Fine Crucible Feather Talisman",
+      "weight": 0.8
+    },
+    {
+      "name": "Talisman of All Crucibles",
+      "weight": 0.8
+    }
+  ]
+}

@@ -1,0 +1,1610 @@
+[
+  {
+    "name": "Dueling Shield",
+    "weight": 9.0
+  },
+  {
+    "name": "Carian Thrusting Shield",
+    "weight": 10.5
+  },
+  {
+    "name": "Dryleaf Arts",
+    "weight": 1.0
+  },
+  {
+    "name": "Dane's Footwork",
+    "weight": 1.0
+  },
+  {
+    "name": "Smithscript Dagger",
+    "weight": 1.5
+  },
+  {
+    "name": "Backhand Blade",
+    "weight": 2.0
+  },
+  {
+    "name": "Smithscript Cirque",
+    "weight": 2.0
+  },
+  {
+    "name": "Curseblade's Cirque",
+    "weight": 4.5
+  },
+  {
+    "name": "Firespark Perfume Bottle",
+    "weight": 1.0
+  },
+  {
+    "name": "Chilling Perfume Bottle",
+    "weight": 1.0
+  },
+  {
+    "name": "Frenzyflame Perfume Bottle",
+    "weight": 1.0
+  },
+  {
+    "name": "Lightning Perfume Bottle",
+    "weight": 1.0
+  },
+  {
+    "name": "Deadly Poison Perfume Bottle",
+    "weight": 1.0
+  },
+  {
+    "name": "Red Bear's Claw",
+    "weight": 4.0
+  },
+  {
+    "name": "Beast Claw (Weapon)",
+    "weight": 3.0
+  },
+  {
+    "name": "Milady",
+    "weight": 6.5
+  },
+  {
+    "name": "Leda's Sword",
+    "weight": 7.5
+  },
+  {
+    "name": "Rellana's Twin Blades",
+    "weight": 8.0
+  },
+  {
+    "name": "Great Katana",
+    "weight": 9.0
+  },
+  {
+    "name": "Dragon-Hunter's Great Katana",
+    "weight": 10.5
+  },
+  {
+    "name": "Rakshasa's Great Katana",
+    "weight": 9.5
+  },
+  {
+    "name": "Dagger",
+    "weight": 1.5
+  },
+  {
+    "name": "Parrying Dagger",
+    "weight": 1.5
+  },
+  {
+    "name": "Misericorde",
+    "weight": 2.0
+  },
+  {
+    "name": "Great Knife",
+    "weight": 1.5
+  },
+  {
+    "name": "Bloodstained Dagger",
+    "weight": 2.0
+  },
+  {
+    "name": "Erdsteel Dagger",
+    "weight": 2.0
+  },
+  {
+    "name": "Wakizashi",
+    "weight": 3.0
+  },
+  {
+    "name": "Celebrant's Sickle",
+    "weight": 1.5
+  },
+  {
+    "name": "Ivory Sickle",
+    "weight": 2.0
+  },
+  {
+    "name": "Crystal Knife",
+    "weight": 2.0
+  },
+  {
+    "name": "Scorpion's Stinger",
+    "weight": 2.5
+  },
+  {
+    "name": "Cinquedea",
+    "weight": 3.5
+  },
+  {
+    "name": "Glintstone Kris",
+    "weight": 1.5
+  },
+  {
+    "name": "Reduvia",
+    "weight": 2.5
+  },
+  {
+    "name": "Blade of Calling",
+    "weight": 1.5
+  },
+  {
+    "name": "Black Knife",
+    "weight": 2.0
+  },
+  {
+    "name": "Main-gauche",
+    "weight": 2.5
+  },
+  {
+    "name": "Fire Knight's Shortsword",
+    "weight": 2.0
+  },
+  {
+    "name": "Short Sword",
+    "weight": 3.0
+  },
+  {
+    "name": "Longsword",
+    "weight": 3.5
+  },
+  {
+    "name": "Broadsword",
+    "weight": 4.0
+  },
+  {
+    "name": "Weathered Straight Sword",
+    "weight": 3.0
+  },
+  {
+    "name": "Lordsworn's Straight Sword",
+    "weight": 3.5
+  },
+  {
+    "name": "Noble's Slender Sword",
+    "weight": 3.5
+  },
+  {
+    "name": "Cane Sword",
+    "weight": 2.5
+  },
+  {
+    "name": "Warhawk's Talon",
+    "weight": 3.0
+  },
+  {
+    "name": "Lazuli Glintstone Sword",
+    "weight": 3.5
+  },
+  {
+    "name": "Carian Knight's Sword",
+    "weight": 4.0
+  },
+  {
+    "name": "Crystal Sword",
+    "weight": 4.5
+  },
+  {
+    "name": "Rotten Crystal Sword",
+    "weight": 4.5
+  },
+  {
+    "name": "Miquellan Knight's Sword",
+    "weight": 3.5
+  },
+  {
+    "name": "Ornamental Straight Sword",
+    "weight": 3.0
+  },
+  {
+    "name": "Golden Epitaph",
+    "weight": 3.5
+  },
+  {
+    "name": "Sword of St Trina",
+    "weight": 3.0
+  },
+  {
+    "name": "Regalia of Eochaid",
+    "weight": 5.5
+  },
+  {
+    "name": "Coded Sword",
+    "weight": 2.5
+  },
+  {
+    "name": "Sword of Night and Flame",
+    "weight": 4.0
+  },
+  {
+    "name": "Velvet Sword of St Trina",
+    "weight": 2.5
+  },
+  {
+    "name": "Stone-Sheathed Sword",
+    "weight": 5.0
+  },
+  {
+    "name": "Sword of Light",
+    "weight": 4.0
+  },
+  {
+    "name": "Sword of Darkness",
+    "weight": 4.0
+  },
+  {
+    "name": "Bastard Sword",
+    "weight": 9.0
+  },
+  {
+    "name": "Claymore",
+    "weight": 9.0
+  },
+  {
+    "name": "Iron Greatsword",
+    "weight": 12.0
+  },
+  {
+    "name": "Lordsworn's Greatsword",
+    "weight": 9.0
+  },
+  {
+    "name": "Knight's Greatsword",
+    "weight": 10.0
+  },
+  {
+    "name": "Banished Knight's Greatsword",
+    "weight": 10.0
+  },
+  {
+    "name": "Forked Greatsword",
+    "weight": 9.0
+  },
+  {
+    "name": "Flamberge",
+    "weight": 10.0
+  },
+  {
+    "name": "Gargoyle's Greatsword",
+    "weight": 11.5
+  },
+  {
+    "name": "Gargoyle's Blackblade",
+    "weight": 11.5
+  },
+  {
+    "name": "Inseparable Sword",
+    "weight": 10.0
+  },
+  {
+    "name": "Sword of Milos",
+    "weight": 10.0
+  },
+  {
+    "name": "Marais Executioner's Sword",
+    "weight": 11.5
+  },
+  {
+    "name": "Ordovis's Greatsword",
+    "weight": 12.0
+  },
+  {
+    "name": "Alabaster Lord's Sword",
+    "weight": 8.0
+  },
+  {
+    "name": "Death's Poker",
+    "weight": 8.5
+  },
+  {
+    "name": "Helphen's Steeple",
+    "weight": 11.5
+  },
+  {
+    "name": "Blasphemous Blade",
+    "weight": 13.5
+  },
+  {
+    "name": "Golden Order Greatsword",
+    "weight": 10.0
+  },
+  {
+    "name": "Dark Moon Greatsword",
+    "weight": 10.0
+  },
+  {
+    "name": "Sacred Relic Sword",
+    "weight": 11.0
+  },
+  {
+    "name": "Lizard Greatsword",
+    "weight": 9.5
+  },
+  {
+    "name": "Greatsword of Damnation",
+    "weight": 8.0
+  },
+  {
+    "name": "Greatsword of Solitude",
+    "weight": 15.5
+  },
+  {
+    "name": "Zweihander",
+    "weight": 15.5
+  },
+  {
+    "name": "Greatsword",
+    "weight": 23.0
+  },
+  {
+    "name": "Watchdog's Greatsword",
+    "weight": 22.0
+  },
+  {
+    "name": "Troll's Golden Sword",
+    "weight": 19.0
+  },
+  {
+    "name": "Troll Knight's Sword",
+    "weight": 18.0
+  },
+  {
+    "name": "Royal Greatsword",
+    "weight": 20.0
+  },
+  {
+    "name": "Grafted Blade Greatsword",
+    "weight": 21.0
+  },
+  {
+    "name": "Ruins Greatsword",
+    "weight": 23.0
+  },
+  {
+    "name": "Starscourge Greatsword",
+    "weight": 20.0
+  },
+  {
+    "name": "Godslayer's Greatsword",
+    "weight": 17.5
+  },
+  {
+    "name": "Maliketh's Black Blade",
+    "weight": 22.0
+  },
+  {
+    "name": "Ancient Meteoric Ore Greatsword",
+    "weight": 22.0
+  },
+  {
+    "name": "Fire Knight's Greatsword",
+    "weight": 16.0
+  },
+  {
+    "name": "Greatsword of Radahn (Light)",
+    "weight": 20.0
+  },
+  {
+    "name": "Greatsword of Radahn (Lord)",
+    "weight": 19.0
+  },
+  {
+    "name": "Moonrithyll's Knight Sword",
+    "weight": 18.0
+  },
+  {
+    "name": "Rapier",
+    "weight": 2.5
+  },
+  {
+    "name": "Estoc",
+    "weight": 4.5
+  },
+  {
+    "name": "Noble's Estoc",
+    "weight": 3.5
+  },
+  {
+    "name": "Cleanrot Knight's Sword",
+    "weight": 4.0
+  },
+  {
+    "name": "Rogier's Rapier",
+    "weight": 3.5
+  },
+  {
+    "name": "Antspur Rapier",
+    "weight": 3.0
+  },
+  {
+    "name": "Frozen Needle",
+    "weight": 2.5
+  },
+  {
+    "name": "Carian Sorcery Sword",
+    "weight": 2.5
+  },
+  {
+    "name": "Great Epee",
+    "weight": 6.5
+  },
+  {
+    "name": "Godskin Stitcher",
+    "weight": 7.0
+  },
+  {
+    "name": "Bloody Helice",
+    "weight": 8.0
+  },
+  {
+    "name": "Dragon King's Cragblade",
+    "weight": 8.0
+  },
+  {
+    "name": "Queelign's Greatsword",
+    "weight": 7.5
+  },
+  {
+    "name": "Sword Lance",
+    "weight": 9.0
+  },
+  {
+    "name": "Scimitar",
+    "weight": 3.0
+  },
+  {
+    "name": "Falchion",
+    "weight": 3.5
+  },
+  {
+    "name": "Shamshir",
+    "weight": 3.5
+  },
+  {
+    "name": "Grossmesser",
+    "weight": 4.5
+  },
+  {
+    "name": "Bandit's Curved Sword",
+    "weight": 5.0
+  },
+  {
+    "name": "Shotel",
+    "weight": 2.0
+  },
+  {
+    "name": "Scavenger's Curved Sword",
+    "weight": 3.5
+  },
+  {
+    "name": "Mantis Blade",
+    "weight": 4.0
+  },
+  {
+    "name": "Beastman's Curved Sword",
+    "weight": 4.0
+  },
+  {
+    "name": "Flowing Curved Sword",
+    "weight": 3.5
+  },
+  {
+    "name": "Serpent-God's Curved Sword",
+    "weight": 4.0
+  },
+  {
+    "name": "Magma Blade",
+    "weight": 4.0
+  },
+  {
+    "name": "Nox Flowing Sword",
+    "weight": 3.5
+  },
+  {
+    "name": "Wing of Astel",
+    "weight": 2.5
+  },
+  {
+    "name": "Eclipse Shotel",
+    "weight": 3.0
+  },
+  {
+    "name": "Spirit Sword",
+    "weight": 2.5
+  },
+  {
+    "name": "Falx",
+    "weight": 4.0
+  },
+  {
+    "name": "Dancing Blade of Ranah",
+    "weight": 3.5
+  },
+  {
+    "name": "Horned Warrior's Sword",
+    "weight": 5.0
+  },
+  {
+    "name": "Dismounter",
+    "weight": 10.0
+  },
+  {
+    "name": "Omen Cleaver",
+    "weight": 11.5
+  },
+  {
+    "name": "Monk's Flameblade",
+    "weight": 9.0
+  },
+  {
+    "name": "Beastman's Cleaver",
+    "weight": 16.5
+  },
+  {
+    "name": "Bloodhound's Fang",
+    "weight": 11.5
+  },
+  {
+    "name": "Onyx Lord's Greatsword",
+    "weight": 11.5
+  },
+  {
+    "name": "Zamor Curved Sword",
+    "weight": 9.0
+  },
+  {
+    "name": "Magma Wyrm's Scalesword",
+    "weight": 15.0
+  },
+  {
+    "name": "Morgott's Cursed Sword",
+    "weight": 7.5
+  },
+  {
+    "name": "Horned Warrior's Greatsword",
+    "weight": 13.0
+  },
+  {
+    "name": "Freyja's Greatsword",
+    "weight": 14.0
+  },
+  {
+    "name": "Uchigatana",
+    "weight": 5.5
+  },
+  {
+    "name": "Nagakiba",
+    "weight": 7.0
+  },
+  {
+    "name": "Serpentbone Blade",
+    "weight": 6.0
+  },
+  {
+    "name": "Meteoric Ore Blade",
+    "weight": 7.5
+  },
+  {
+    "name": "Moonveil",
+    "weight": 6.5
+  },
+  {
+    "name": "Rivers of Blood",
+    "weight": 6.5
+  },
+  {
+    "name": "Dragonscale Blade",
+    "weight": 5.5
+  },
+  {
+    "name": "Hand of Malenia",
+    "weight": 7.0
+  },
+  {
+    "name": "Star-Lined Sword",
+    "weight": 5.0
+  },
+  {
+    "name": "Sword of Night",
+    "weight": 6.5
+  },
+  {
+    "name": "Twinblade",
+    "weight": 7.0
+  },
+  {
+    "name": "Twinned Knight Swords",
+    "weight": 8.0
+  },
+  {
+    "name": "Godskin Peeler",
+    "weight": 8.0
+  },
+  {
+    "name": "Gargoyle's Twinblade",
+    "weight": 8.5
+  },
+  {
+    "name": "Gargoyle's Black Blades",
+    "weight": 8.5
+  },
+  {
+    "name": "Eleonora's Poleblade",
+    "weight": 6.0
+  },
+  {
+    "name": "Black Steel Twinblade",
+    "weight": 8.0
+  },
+  {
+    "name": "Euporia",
+    "weight": 8.5
+  },
+  {
+    "name": "Hand Axe",
+    "weight": 3.5
+  },
+  {
+    "name": "Forked Hatchet",
+    "weight": 2.5
+  },
+  {
+    "name": "Battle Axe",
+    "weight": 4.5
+  },
+  {
+    "name": "Warped Axe",
+    "weight": 7.5
+  },
+  {
+    "name": "Jawbone Axe",
+    "weight": 5.5
+  },
+  {
+    "name": "Iron Cleaver",
+    "weight": 6.0
+  },
+  {
+    "name": "Highland Axe",
+    "weight": 4.5
+  },
+  {
+    "name": "Celebrant's Cleaver",
+    "weight": 4.5
+  },
+  {
+    "name": "Sacrificial Axe",
+    "weight": 5.5
+  },
+  {
+    "name": "Icerind Hatchet",
+    "weight": 3.0
+  },
+  {
+    "name": "Ripple Blade",
+    "weight": 4.5
+  },
+  {
+    "name": "Stormhawk Axe",
+    "weight": 5.5
+  },
+  {
+    "name": "Rosus' Axe",
+    "weight": 5.5
+  },
+  {
+    "name": "Forked-Tongue Hatchet",
+    "weight": 4.0
+  },
+  {
+    "name": "Smithscript Axe",
+    "weight": 5.0
+  },
+  {
+    "name": "Messmer Soldier's Axe",
+    "weight": 5.5
+  },
+  {
+    "name": "Death Knight's Twin Axes",
+    "weight": 5.5
+  },
+  {
+    "name": "Greataxe",
+    "weight": 13.0
+  },
+  {
+    "name": "Crescent Moon Axe",
+    "weight": 12.5
+  },
+  {
+    "name": "Longhaft Axe",
+    "weight": 12.5
+  },
+  {
+    "name": "Executioner's Greataxe",
+    "weight": 15.0
+  },
+  {
+    "name": "Great Omenkiller Cleaver",
+    "weight": 11.0
+  },
+  {
+    "name": "Rusted Anchor",
+    "weight": 12.5
+  },
+  {
+    "name": "Butchering Knife",
+    "weight": 8.5
+  },
+  {
+    "name": "Gargoyle's Great Axe",
+    "weight": 8.5
+  },
+  {
+    "name": "Gargoyle's Black Axe",
+    "weight": 8.5
+  },
+  {
+    "name": "Winged Greathorn",
+    "weight": 11.0
+  },
+  {
+    "name": "Axe of Godrick",
+    "weight": 11.0
+  },
+  {
+    "name": "Putrescence Cleaver",
+    "weight": 13.5
+  },
+  {
+    "name": "Death Knight's Longhaft Axe",
+    "weight": 11.5
+  },
+  {
+    "name": "Bonny Butchering Knife",
+    "weight": 8.5
+  },
+  {
+    "name": "Club",
+    "weight": 3.5
+  },
+  {
+    "name": "Curved Club",
+    "weight": 5.0
+  },
+  {
+    "name": "Spiked Club",
+    "weight": 5.0
+  },
+  {
+    "name": "Stone Club",
+    "weight": 7.0
+  },
+  {
+    "name": "Mace",
+    "weight": 4.5
+  },
+  {
+    "name": "Morning Star",
+    "weight": 5.0
+  },
+  {
+    "name": "Warpick",
+    "weight": 2.5
+  },
+  {
+    "name": "Hammer",
+    "weight": 6.5
+  },
+  {
+    "name": "Monk's Flamemace",
+    "weight": 6.0
+  },
+  {
+    "name": "Varre's Bouquet",
+    "weight": 2.0
+  },
+  {
+    "name": "Envoy's Horn",
+    "weight": 4.0
+  },
+  {
+    "name": "Nox Flowing Hammer",
+    "weight": 6.5
+  },
+  {
+    "name": "Ringed Finger",
+    "weight": 4.5
+  },
+  {
+    "name": "Scepter of the All-Knowing",
+    "weight": 4.5
+  },
+  {
+    "name": "Marika's Hammer",
+    "weight": 6.0
+  },
+  {
+    "name": "Flowerstone Gavel",
+    "weight": 6.0
+  },
+  {
+    "name": "Flail",
+    "weight": 5.0
+  },
+  {
+    "name": "Nightrider Flail",
+    "weight": 6.0
+  },
+  {
+    "name": "Chainlink Flail",
+    "weight": 8.0
+  },
+  {
+    "name": "Family Heads",
+    "weight": 5.5
+  },
+  {
+    "name": "Bastard's Stars",
+    "weight": 5.5
+  },
+  {
+    "name": "Serpent Flail",
+    "weight": 6.0
+  },
+  {
+    "name": "Large Club",
+    "weight": 8.5
+  },
+  {
+    "name": "Curved Great Club",
+    "weight": 10.0
+  },
+  {
+    "name": "Great Mace",
+    "weight": 11.5
+  },
+  {
+    "name": "Pickaxe",
+    "weight": 10.0
+  },
+  {
+    "name": "Brick Hammer",
+    "weight": 12.5
+  },
+  {
+    "name": "Battle Hammer",
+    "weight": 10.0
+  },
+  {
+    "name": "Rotten Battle Hammer",
+    "weight": 10.0
+  },
+  {
+    "name": "Celebrant's Skull",
+    "weight": 8.5
+  },
+  {
+    "name": "Great Stars",
+    "weight": 10.0
+  },
+  {
+    "name": "Greathorn Hammer",
+    "weight": 10.0
+  },
+  {
+    "name": "Envoy's Long Horn",
+    "weight": 9.5
+  },
+  {
+    "name": "Cranial Vessel Candlestand",
+    "weight": 12.5
+  },
+  {
+    "name": "Beastclaw Greathammer",
+    "weight": 9.0
+  },
+  {
+    "name": "Devourer's Scepter",
+    "weight": 11.5
+  },
+  {
+    "name": "Black Steel Greathammer",
+    "weight": 12.0
+  },
+  {
+    "name": "Smithscript Greathammer",
+    "weight": 9.0
+  },
+  {
+    "name": "Duelist Greataxe",
+    "weight": 20.0
+  },
+  {
+    "name": "Rotten Greataxe",
+    "weight": 20.0
+  },
+  {
+    "name": "Golem's Halberd",
+    "weight": 21.5
+  },
+  {
+    "name": "Giant-Crusher",
+    "weight": 26.5
+  },
+  {
+    "name": "Prelate's Inferno Crozier",
+    "weight": 23.5
+  },
+  {
+    "name": "Great Club",
+    "weight": 17.0
+  },
+  {
+    "name": "Troll's Hammer",
+    "weight": 16.0
+  },
+  {
+    "name": "Dragon Greatclaw",
+    "weight": 16.0
+  },
+  {
+    "name": "Watchdog's Staff",
+    "weight": 19.0
+  },
+  {
+    "name": "Staff of the Avatar",
+    "weight": 20.0
+  },
+  {
+    "name": "Rotten Staff",
+    "weight": 18.0
+  },
+  {
+    "name": "Envoy's Greathorn",
+    "weight": 19.5
+  },
+  {
+    "name": "Ghiza's Wheel",
+    "weight": 19.0
+  },
+  {
+    "name": "Fallingstar Beast Jaw",
+    "weight": 21.5
+  },
+  {
+    "name": "Axe of Godfrey",
+    "weight": 18.0
+  },
+  {
+    "name": "Bloodfiend's Arm",
+    "weight": 20.0
+  },
+  {
+    "name": "Anvil Hammer",
+    "weight": 22.0
+  },
+  {
+    "name": "Devonia's Hammer",
+    "weight": 20.0
+  },
+  {
+    "name": "Shadow Sunflower Blossom",
+    "weight": 16.0
+  },
+  {
+    "name": "Gazing Finger",
+    "weight": 15.0
+  },
+  {
+    "name": "Short Spear",
+    "weight": 4.0
+  },
+  {
+    "name": "Iron Spear",
+    "weight": 4.5
+  },
+  {
+    "name": "Spear",
+    "weight": 4.5
+  },
+  {
+    "name": "Partisan",
+    "weight": 6.5
+  },
+  {
+    "name": "Pike",
+    "weight": 7.5
+  },
+  {
+    "name": "Spiked Spear",
+    "weight": 6.0
+  },
+  {
+    "name": "Cross-Naginata",
+    "weight": 8.0
+  },
+  {
+    "name": "Clayman's Harpoon",
+    "weight": 5.5
+  },
+  {
+    "name": "Celebrant's Rib-Rake",
+    "weight": 5.0
+  },
+  {
+    "name": "Torchpole",
+    "weight": 6.0
+  },
+  {
+    "name": "Inquisitor's Girandole",
+    "weight": 7.5
+  },
+  {
+    "name": "Crystal Spear",
+    "weight": 5.5
+  },
+  {
+    "name": "Rotten Crystal Spear",
+    "weight": 5.5
+  },
+  {
+    "name": "Cleanrot Spear",
+    "weight": 5.5
+  },
+  {
+    "name": "Death Ritual Spear",
+    "weight": 6.5
+  },
+  {
+    "name": "Bolt of Gransax",
+    "weight": 8.5
+  },
+  {
+    "name": "Smithscript Spear",
+    "weight": 4.0
+  },
+  {
+    "name": "Swift Spear",
+    "weight": 3.0
+  },
+  {
+    "name": "Bloodfiend's Fork",
+    "weight": 4.5
+  },
+  {
+    "name": "Lance",
+    "weight": 9.0
+  },
+  {
+    "name": "Treespear",
+    "weight": 9.5
+  },
+  {
+    "name": "Serpent-Hunter",
+    "weight": 12.0
+  },
+  {
+    "name": "Siluria's Tree",
+    "weight": 10.0
+  },
+  {
+    "name": "Vyke's War Spear",
+    "weight": 8.0
+  },
+  {
+    "name": "Mohgwyn's Sacred Spear",
+    "weight": 10.0
+  },
+  {
+    "name": "Bloodfiend's Sacred Spear",
+    "weight": 8.0
+  },
+  {
+    "name": "Messmer Soldier's Spear",
+    "weight": 8.5
+  },
+  {
+    "name": "Spear of the Impaler",
+    "weight": 9.5
+  },
+  {
+    "name": "Barbed Staff-Spear",
+    "weight": 7.5
+  },
+  {
+    "name": "Halberd",
+    "weight": 8.0
+  },
+  {
+    "name": "Banished Knight's Halberd",
+    "weight": 8.0
+  },
+  {
+    "name": "Lucerne",
+    "weight": 7.0
+  },
+  {
+    "name": "Glaive",
+    "weight": 10.0
+  },
+  {
+    "name": "Vulgar Militia Shotel",
+    "weight": 8.0
+  },
+  {
+    "name": "Vulgar Militia Saw",
+    "weight": 8.0
+  },
+  {
+    "name": "Guardian's Swordspear",
+    "weight": 9.0
+  },
+  {
+    "name": "Gargoyle's Halberd",
+    "weight": 12.0
+  },
+  {
+    "name": "Gargoyle's Black Halberd",
+    "weight": 12.0
+  },
+  {
+    "name": "Nightrider Glaive",
+    "weight": 12.0
+  },
+  {
+    "name": "Pest's Glaive",
+    "weight": 7.0
+  },
+  {
+    "name": "Ripple Crescent Halberd",
+    "weight": 8.5
+  },
+  {
+    "name": "Golden Halberd",
+    "weight": 13.5
+  },
+  {
+    "name": "Dragon Halberd",
+    "weight": 10.5
+  },
+  {
+    "name": "Loretta's War Sickle",
+    "weight": 10.0
+  },
+  {
+    "name": "Commander's Standard",
+    "weight": 11.5
+  },
+  {
+    "name": "Spirit Glaive",
+    "weight": 6.5
+  },
+  {
+    "name": "Poleblade of the Bud",
+    "weight": 10.0
+  },
+  {
+    "name": "Scythe",
+    "weight": 7.5
+  },
+  {
+    "name": "Grave Scythe",
+    "weight": 9.5
+  },
+  {
+    "name": "Halo Scythe",
+    "weight": 8.5
+  },
+  {
+    "name": "Winged Scythe",
+    "weight": 7.5
+  },
+  {
+    "name": "Obsidian Lamina",
+    "weight": 6.5
+  },
+  {
+    "name": "Whip",
+    "weight": 2.0
+  },
+  {
+    "name": "Thorned Whip",
+    "weight": 2.5
+  },
+  {
+    "name": "Urumi",
+    "weight": 3.0
+  },
+  {
+    "name": "Hoslow's Petal Whip",
+    "weight": 3.5
+  },
+  {
+    "name": "Magma Whip Candlestick",
+    "weight": 2.5
+  },
+  {
+    "name": "Giant's Red Braid",
+    "weight": 2.5
+  },
+  {
+    "name": "Tooth Whip",
+    "weight": 3.0
+  },
+  {
+    "name": "Caestus",
+    "weight": 1.5
+  },
+  {
+    "name": "Spiked Caestus",
+    "weight": 2.0
+  },
+  {
+    "name": "Katar",
+    "weight": 2.5
+  },
+  {
+    "name": "Iron Ball",
+    "weight": 2.5
+  },
+  {
+    "name": "Star Fist",
+    "weight": 3.0
+  },
+  {
+    "name": "Clinging Bone",
+    "weight": 3.0
+  },
+  {
+    "name": "Veteran's Prosthesis",
+    "weight": 4.0
+  },
+  {
+    "name": "Cipher Pata",
+    "weight": 0.0
+  },
+  {
+    "name": "Grafted Dragon",
+    "weight": 2.5
+  },
+  {
+    "name": "Pata",
+    "weight": 4.0
+  },
+  {
+    "name": "Golem Fist",
+    "weight": 5.0
+  },
+  {
+    "name": "Madding Hand",
+    "weight": 1.0
+  },
+  {
+    "name": "Thiollier's Hidden Needle",
+    "weight": 0.5
+  },
+  {
+    "name": "Poisoned Hand",
+    "weight": 1.0
+  },
+  {
+    "name": "Hookclaws",
+    "weight": 2.0
+  },
+  {
+    "name": "Bloodhound Claws",
+    "weight": 3.0
+  },
+  {
+    "name": "Venomous Fang",
+    "weight": 2.5
+  },
+  {
+    "name": "Raptor Talons",
+    "weight": 1.5
+  },
+  {
+    "name": "Claws of Night",
+    "weight": 3.0
+  },
+  {
+    "name": "Shortbow",
+    "weight": 2.5
+  },
+  {
+    "name": "Composite Bow",
+    "weight": 3.0
+  },
+  {
+    "name": "Red Branch Shortbow",
+    "weight": 2.5
+  },
+  {
+    "name": "Misbegotten Shortbow",
+    "weight": 3.0
+  },
+  {
+    "name": "Harp Bow",
+    "weight": 2.0
+  },
+  {
+    "name": "Bone Bow",
+    "weight": 3.0
+  },
+  {
+    "name": "Longbow",
+    "weight": 4.0
+  },
+  {
+    "name": "Albinauric Bow",
+    "weight": 4.5
+  },
+  {
+    "name": "Black Bow",
+    "weight": 4.0
+  },
+  {
+    "name": "Pulley Bow",
+    "weight": 5.0
+  },
+  {
+    "name": "Horn Bow",
+    "weight": 4.5
+  },
+  {
+    "name": "Serpent Bow",
+    "weight": 3.5
+  },
+  {
+    "name": "Erdtree Bow",
+    "weight": 4.0
+  },
+  {
+    "name": "Ansbach's Longbow",
+    "weight": 4.5
+  },
+  {
+    "name": "Greatbow",
+    "weight": 10.0
+  },
+  {
+    "name": "Golem Greatbow",
+    "weight": 14.5
+  },
+  {
+    "name": "Erdtree Greatbow",
+    "weight": 11.0
+  },
+  {
+    "name": "Lion Greatbow",
+    "weight": 9.5
+  },
+  {
+    "name": "Igon's Greatbow",
+    "weight": 12.5
+  },
+  {
+    "name": "Soldier's Crossbow",
+    "weight": 3.5
+  },
+  {
+    "name": "Light Crossbow",
+    "weight": 4.0
+  },
+  {
+    "name": "Heavy Crossbow",
+    "weight": 5.5
+  },
+  {
+    "name": "Arbalest",
+    "weight": 6.0
+  },
+  {
+    "name": "Crepus's Black-Key Crossbow",
+    "weight": 5.0
+  },
+  {
+    "name": "Pulley Crossbow",
+    "weight": 4.0
+  },
+  {
+    "name": "Full Moon Crossbow",
+    "weight": 4.0
+  },
+  {
+    "name": "Repeating Crossbow",
+    "weight": 6.0
+  },
+  {
+    "name": "Spread Crossbow",
+    "weight": 5.0
+  },
+  {
+    "name": "Hand Ballista",
+    "weight": 10.0
+  },
+  {
+    "name": "Jar Cannon",
+    "weight": 15.0
+  },
+  {
+    "name": "Rabbath's Cannon",
+    "weight": 15.0
+  },
+  {
+    "name": "Astrologer's Staff",
+    "weight": 3.0
+  },
+  {
+    "name": "Glintstone Staff",
+    "weight": 3.0
+  },
+  {
+    "name": "Academy Glintstone Staff",
+    "weight": 3.0
+  },
+  {
+    "name": "Digger's Staff",
+    "weight": 4.5
+  },
+  {
+    "name": "Demi-Human Queen's Staff",
+    "weight": 3.0
+  },
+  {
+    "name": "Azur's Glintstone Staff",
+    "weight": 4.0
+  },
+  {
+    "name": "Lusat's Glintstone Staff",
+    "weight": 4.0
+  },
+  {
+    "name": "Carian Glintstone Staff",
+    "weight": 3.0
+  },
+  {
+    "name": "Carian Glintblade Staff",
+    "weight": 2.5
+  },
+  {
+    "name": "Carian Regal Scepter",
+    "weight": 3.0
+  },
+  {
+    "name": "Albinauric Staff",
+    "weight": 2.5
+  },
+  {
+    "name": "Staff of Loss",
+    "weight": 2.5
+  },
+  {
+    "name": "Gelmir Glintstone Staff",
+    "weight": 2.5
+  },
+  {
+    "name": "Crystal Staff",
+    "weight": 4.5
+  },
+  {
+    "name": "Rotten Crystal Staff",
+    "weight": 4.5
+  },
+  {
+    "name": "Meteorite Staff",
+    "weight": 4.5
+  },
+  {
+    "name": "Staff of the Guilty",
+    "weight": 4.5
+  },
+  {
+    "name": "Prince of Death's Staff",
+    "weight": 3.0
+  },
+  {
+    "name": "Staff of the Great Beyond",
+    "weight": 2.5
+  },
+  {
+    "name": "Maternal Staff",
+    "weight": 2.5
+  },
+  {
+    "name": "Finger Seal",
+    "weight": 1.5
+  },
+  {
+    "name": "Erdtree Seal",
+    "weight": 0.0
+  },
+  {
+    "name": "Golden Order Seal",
+    "weight": 0.0
+  },
+  {
+    "name": "Gravel Stone Seal",
+    "weight": 1.5
+  },
+  {
+    "name": "Giant's Seal",
+    "weight": 1.5
+  },
+  {
+    "name": "Godslayer's Seal",
+    "weight": 1.5
+  },
+  {
+    "name": "Clawmark Seal",
+    "weight": 1.5
+  },
+  {
+    "name": "Frenzied Flame Seal",
+    "weight": 12.0
+  },
+  {
+    "name": "Dragon Communion Seal",
+    "weight": 0.0
+  },
+  {
+    "name": "Dryleaf Seal",
+    "weight": 1.5
+  },
+  {
+    "name": "Fire Knight's Seal",
+    "weight": 1.5
+  },
+  {
+    "name": "Spiraltree Seal",
+    "weight": 1.5
+  },
+  {
+    "name": "Torch",
+    "weight": 1.5
+  },
+  {
+    "name": "Beast-Repellent Torch",
+    "weight": 2.5
+  },
+  {
+    "name": "Steel-Wire Torch",
+    "weight": 3.0
+  },
+  {
+    "name": "Sentry's Torch",
+    "weight": 5.0
+  },
+  {
+    "name": "Ghostflame Torch",
+    "weight": 2.5
+  },
+  {
+    "name": "St. Trina's Torch",
+    "weight": 3.0
+  },
+  {
+    "name": "Lamenting Visage",
+    "weight": 2.0
+  },
+  {
+    "name": "Nanaya's Torch",
+    "weight": 3.5
+  }
+]
